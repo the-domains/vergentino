@@ -1,6 +1,6 @@
 name: vergentino
 favicon: null
-layout_spectrum: 0.8
+layout_spectrum: 0.13925438467413187
 cta:
   domain: null
   bucket: null
@@ -23,3 +23,4 @@ purpose:
   - name: engagement
     item: null
     url: null
+typography_spectrum: 0.6518234272953123
